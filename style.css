@@ -1,0 +1,27 @@
+nav ul li a{
+    font-size: 30px;
+}
+nav ul li{
+    margin-right: 50px;
+}
+.organisation-development{
+    height: 50px;
+    background-color: rgb(160, 171, 160);
+    border-radius: 5px;
+    text-align: left;
+    line-height: 50px;
+}
+.organisation-development a{
+   border-left: 2px solid gray;
+   margin-left:10px;
+}
+.header-text h1{
+    font-size: 100px;
+}
+.knowledge-text p{
+    color: white;
+    background-color: rgb(137, 55, 58);
+    padding: 2px 5px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
